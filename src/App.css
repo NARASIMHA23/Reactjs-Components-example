@@ -514,3 +514,28 @@ margin-top: 0.3%;
  width: 17%;
  height:100%;
 }
+.searchbox{
+height:40px;
+    width: 260px;
+    box-shadow: none;
+    border-radius: 15px;
+    margin-top: 1%;
+    border: #222;
+    background: #f19d97
+}
+.searchbutton{
+  /* background-color: rgb(81, 221, 86); Green */
+  /* border: 2%; */
+  /* color: white; */
+  /* padding: 15px 72px; */
+  /* text-align: center; */
+  /* text-decoration: none; */
+  /* display: inline-block; */
+  /* font-size: 16px; */
+  /* margin: 4px 2px; */
+  /* cursor: pointer; */
+  /* border-radius: 15px; */
+
+  
+
+}
